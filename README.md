@@ -1,5 +1,7 @@
 # matrix-operations
 Vector and matrix implementation allowing users to perform various operations.
+
+The repo also contains various JUnit tests for said operations.
 ## Vector
 * Addition
 * Subtraction
